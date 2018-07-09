@@ -8,6 +8,7 @@
 	<packaging>mule</packaging>
 	<name>Mule maven-project Application</name>
 	<!-- This is a test comment -->
+	<!-- This is another test comment -->
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
